@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 Gitee: https://gitee.com/sarom
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuijieYao&layout=compact)](https://github.com/HuijieYao/github-readme-stats)
+
+![Visitor Count](https://profile-counter.glitch.me/HuijieYao/count.svg)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=HuijieYao&show_icons=true&theme=tokyonight)
