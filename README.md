@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 -->
 Find me on [Gitee](https://gitee.com/sarom)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuijieYao&layout=compact)](https://github.com/HuijieYao/github-readme-stats)
-
 ![Visitor Count](https://profile-counter.glitch.me/HuijieYao/count.svg)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=HuijieYao&show_icons=true&theme=tokyonight)
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HuijieYao&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuijieYao&theme=buefy&layout=compact" />
+</a>
 
 ---
 
