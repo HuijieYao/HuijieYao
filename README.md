@@ -4,7 +4,7 @@
 
 #### **About Me**
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🔭 &nbsp; I’m currently learning Flutter Application Development.
 - 🤔 &nbsp; Exploring new technologies and better solutions.
 - 🎓 &nbsp; Studying Computer Science, Programming and Mathematics.
 - 💼 &nbsp; Committed to being an algorithm engineer.
@@ -12,7 +12,7 @@
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
-> You can also find me on [Gitee](https://gitee.com/sarom)
+> You can also find me on [Gitee](https://gitee.com/sarom).
 
 #### **Visitor Count**
 
